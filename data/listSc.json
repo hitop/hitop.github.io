@@ -1,0 +1,71 @@
+[
+    {
+        "左右对称照片": {
+            "url": "https://www.icloud.com/shortcuts/1ea421fdb0ad42378658761f9efe1642",
+            "fcn": "将一张照片从中间镜像翻转，使其左右对称",
+            "htu": "1、在手机相册中查看任一图片，然后点击分享 -> 选择捷径 -> 选择“查看图片信息”。<br>2、在捷径应用或者通知中心直接点击打开。",
+            "udate": "2019.05.02  V:1.0"
+        },
+        "P站Style": {
+            "url": "https://www.icloud.com/shortcuts/8cb9eeef3d194788bf84b66c16c60647",
+            "img": "https://i.loli.net/2019/05/02/5cca990c9fd9d.jpg",
+            "fcn": "Pxxnhub风格logo生成，可自定义文字",
+            "htu": "通过下拉通知栏或者捷径中心直接点击运行",
+            "udate": "2019.03.30  V:1.0"
+        },
+        "点薅羊毛": {
+            "url": "https://www.icloud.com/shortcuts/6956d61df9384e28ab480ea8311f1faa",
+            "fcn": "整理收集的一些可以薅羊毛的信息，亲身体验，保证真实有效。<br>内容实时更新，活动过期自动失效，放心使用",
+            "htu": "通过下拉通知栏或者捷径中心直接点击运行",
+            "udate": "2019.03.12  V:1.1"
+        },
+        "捷径网站综合": {
+            "url": "https://www.icloud.com/shortcuts/9f8c5933bfca44a88eda260497057f41",
+            "fcn": "官方捷径太少，试试这些第三方网站整理收集的吧。更适合国内用户，更加实用。",
+            "htu": "在捷径中心或者widget中点击运行",
+            "udate": "2019.03.03  V:1.0"
+        },
+        "随机头像": {
+            "url": "https://www.icloud.com/shortcuts/e8a6a20277e94f4dbfd314b0a0952476",
+            "fcn": "获取<b>ThisPersonDoesNotExist.com</b>、<b>ThisWaifuDoesNotExist.net</b>、<b>TheseCatsDoNotExist.com</b> 这三个网站的图片。PS:这三个网站的图片内容（真人头像、动漫老婆、喵星人）都是通过AI生成的，实际上并不存在。",
+            "htu": "在捷径中心或者widget中点击运行",
+            "udate": "2019.03.01  V:1.0"
+        },
+        "BMI计算器": {
+            "url": "https://www.icloud.com/shortcuts/58f142c097694f788b763e7ed665ebf9",
+            "fcn": "根据输入的体重、身高，来计算BMI指数，并根据国际标准判断身材是偏瘦、标准、超重还是肥胖。",
+            "htu": "在捷径中心或者widget中点击运行",
+            "udate": "2019.02.28  V:1.0"
+        },
+        "GIF工具": {
+            "url": "https://www.icloud.com/shortcuts/528a784b95ee4106b3dae0bb12d9e6aa",
+            "fcn": "倒放GIF图片。可选择单倒放，以及原正放+倒放",
+            "htu": "在手机相册中查看要倒放的GIF图片，然后点击分享 -> 选择捷径 -> 选择本“GIF工具”",
+            "udate": "2019.01.22  V:1.0"
+        },
+        "支付宝常用快捷键": {
+            "url": "https://www.icloud.com/shortcuts/1abc612622e34353b416fd61f3dadbd1",
+            "fcn": "快速打开支付宝乘车码、付款码、扫一扫等",
+            "htu": "在捷径应用或者通知中心直接点击打开",
+            "udate": "2019.01.22  V:1.0"
+        },
+        "查看图片信息": {
+            "url": "https://www.icloud.com/shortcuts/06b72e408b3348c88f62e324fd952392",
+            "fcn": "查看图片信息，包括：图片名称、格式、大小、长宽度，以为（如果EXIF信息中有的话）创建日期、拍摄设备、拍摄地点等。苹果相册无法连图片大小都无法查看，实在头疼，于是写了这个捷径，自己用得还蛮爽的。",
+            "htu": "1、在手机相册中查看任一图片，然后点击分享 -> 选择捷径 -> 选择“查看图片信息”。<br>2、在捷径应用或者通知中心直接点击打开。",
+            "udate": "2019.05.02 V:1.2 修复从相册分享查看信息有误的bug<br>2019.01.22  V:1.0"
+        },
+        "添加水印": {
+            "url": "https://www.icloud.com/shortcuts/9b2705ecd1f8411f87dbd84fba7337f6",
+            "fcn": "给图片添加文字或者图片水印。自制表情包，称霸聊天群。",
+            "htu": "1、在图库中查看图片，然后点击分享 -> 选择捷径 -> 选择“添加水印”。<br>2、在捷径应用或者通知中心直接点击打开。",
+            "udate": "2019.01.22  V:1.0"
+        },
+        "听歌": {
+            "url": "https://www.icloud.com/shortcuts/3728ee10088a47f28e0e3fce48cdd678",
+            "fcn": "选择打开网易云音乐或者虾米音乐或者QQ音乐的每日推荐歌单，一键放歌。",
+            "htu": "在捷径应用或者通知中心直接点击打开。<br>PS：请事先安装好对应APP，没有安装的APP可自行在捷径中删除对应选项，或者别点就好了。点了也没事，会提示无法打开而已。",
+            "udate": "2019.01.22  V:1.0"
+        }
+    }
+]

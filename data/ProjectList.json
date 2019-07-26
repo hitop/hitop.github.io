@@ -12,12 +12,6 @@
 		"description": "生成Pxxnhub风格图标"
 	},
 	{
-		"name": "俄罗斯方块-虚拟货币图标版",
-		"url": "https://bitcointetris.netlify.com",
-		"preview": "https://i.loli.net/2019/07/25/5d39b571639be57018.jpg",
-		"description": "传统的俄罗斯方块小游戏，只是把图标改成了虚拟货币"
-	},
-	{
 		"name": "随机背景生成",
 		"url": "https://randomb.netlify.com",
 		"preview": "https://i.loli.net/2019/07/25/5d39b60e7381926616.jpg",
@@ -28,5 +22,17 @@
 		"url": "https://cloudbk.netlify.com",
 		"preview": "https://i.loli.net/2019/06/06/5cf8685c9f24280701.jpg",
 		"description": "自用网络收藏夹"
+	},
+	{
+		"name": "自用iOS捷径",
+		"url": "shortcuts.html",
+		"preview": "https://images.unsplash.com/photo-1563884072595-24a1d9dd5647",
+		"description": "一些自用的IOS捷径"
+	},
+	{
+		"name": "俄罗斯方块-虚拟货币图标版",
+		"url": "https://bitcointetris.netlify.com",
+		"preview": "https://i.loli.net/2019/07/25/5d39b571639be57018.jpg",
+		"description": "传统的俄罗斯方块小游戏，只是把图标改成了虚拟货币"
 	}
 ]

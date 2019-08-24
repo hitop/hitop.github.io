@@ -2,14 +2,16 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="/css/markdownhere.css">
   <title>Marked in the browser</title>
 </head>
 <body>
   <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
+  	console.log(location.pathname)
+  	window.addEventListener('error', function(e) {
+  	    console.log(e);
+  	}, true);
   	function getAjax(url, success) {
   		var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
   		xhr.open('GET', url);
@@ -20,9 +22,7 @@
   		xhr.send();
   		return xhr;
   	}
-  	let pan = location.pathname.split('/')
-  	let filename = '/wz/' + pan[1] + '-' + pan[2] + '-' + pan[3] + '-' + pan[4] + '.md'
-  	getAjax(filename, function (data) {
+  	let wzcon = getAjax('2019-01-01-可以薅羊毛的APP.md', function (data) {
     	document.getElementById('content').innerHTML = marked(data);
   	})
   </script>
